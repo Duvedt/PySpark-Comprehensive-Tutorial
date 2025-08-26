@@ -538,7 +538,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For questions and support:
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [sdodlapa@gmail.com]
 - 💬 Discussions: GitHub Discussions
 - 🐛 Issues: GitHub Issues
 - 📖 Documentation: [Tutorial Wiki](wiki-link)
